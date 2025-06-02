@@ -1,7 +1,7 @@
 
 Portfolio: 
 
-About me:
+About me: <br/>
 Full-Stack Developer with experience building AI-driven apps, scalable APIs, and real-time systems. Passionate about shipping user-first products.
 
 Recent projects:
