@@ -2,7 +2,7 @@
 Portfolio: 
 
 About me:
-Full-Stack Developer with experience building AI-driven apps, scalable APIs, and real-time systems. Passionate about shipping user-first products with React, Node.js, and OpenAI.
+Full-Stack Developer with experience building AI-driven apps, scalable APIs, and real-time systems. Passionate about shipping user-first products.
 
 Recent projects:
 
