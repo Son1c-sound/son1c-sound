@@ -6,6 +6,6 @@ Full-Stack Developer with experience building AI-driven apps, scalable APIs, and
 
 Recent projects:
 
-chess analyizer + demo video: https://github.com/Son1c-sound/Chess-Position-Analyzer  (fun sideproject) <br/> 
-AI anime filter appstore - https://apps.apple.com/us/app/ai-anime-filter-gotoon/id6744040885 (370 downloads) <br/> 
-Growfast - AI scheduler - https://getgrowfast.com/     ( ongoing startup )
+chess analyizer (cool sideproject) + demo video: https://github.com/Son1c-sound/Chess-Position-Analyzer  (fun sideproject) <br/> 
+AI filter appstore  (370 downloads) - https://apps.apple.com/us/app/ai-anime-filter-gotoon/id6744040885  <br/> 
+Growfast - AI scheduler   ( ongoing startup ) - https://getgrowfast.com/   
