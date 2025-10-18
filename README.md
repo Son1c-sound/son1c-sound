@@ -6,7 +6,7 @@
 |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
 
 ````
-📁 [Portfolio](https://zura-prortfolio-79vk7lwlb-techson1cs-projects.vercel.app)
+
 
 
 
