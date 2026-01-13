@@ -11,4 +11,5 @@
 
 **🚀 Currently working on:** 
 
-[ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking
+📱[ScrollQuiz](https://github.com/yourusername/scrollquiz) - Unlock doomscrolling by solving quizzes
+🍔[ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking
