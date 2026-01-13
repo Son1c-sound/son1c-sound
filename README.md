@@ -12,5 +12,5 @@
 # 🚀 Projects i have worked on: 
 
 📱[ScrollQuiz](https://github.com/yourusername/scrollquiz) - Unlock doomscrolling by solving quizzes <br/>
-🍔[ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking
+🍔[ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking  <br/>
 🍽️[Expo Plate](https://github.com/Son1c-sound/expo-plate) - Expo sdk54 boilerplate starter
