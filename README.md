@@ -9,7 +9,7 @@
 
 # **Hi, I'm Zura** 👋 
 
-# 🚀 Currently working on:** 
+# 🚀 Projects i have worked on: 
 
 📱[ScrollQuiz](https://github.com/yourusername/scrollquiz) - Unlock doomscrolling by solving quizzes <br/>
 🍔[ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking
