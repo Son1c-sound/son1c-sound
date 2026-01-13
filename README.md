@@ -7,9 +7,9 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-# **Hi, I'm Zura** 👋
+# **Hi, I'm Zura** 👋 
 
-**🚀 Currently working on:** 
+# 🚀 Currently working on:** 
 
-📱[ScrollQuiz](https://github.com/yourusername/scrollquiz) - Unlock doomscrolling by solving quizzes
+📱[ScrollQuiz](https://github.com/yourusername/scrollquiz) - Unlock doomscrolling by solving quizzes <br/>
 🍔[ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking
