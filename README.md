@@ -7,10 +7,3 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-# **Hi, I'm Zura** 👋 
-
-# 🚀 Projects i have worked on: 
-
-📱 [ScrollQuiz](https://github.com/yourusername/scrollquiz) - Unlock doomscrolling by solving quizzes <br/>
-🍔 [ChewMate](https://github.com/yourusername/chewmate) - AI-powered nutrition tracking  <br/>
-🍽️ [Expo Plate](https://github.com/Son1c-sound/expo-plate) - Expo sdk54 boilerplate starter
